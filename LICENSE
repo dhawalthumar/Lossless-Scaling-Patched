@@ -1,21 +1,31 @@
-MIT License
+██      ██████  ███████ ███████ ██      ███████ ███████ ███████ 
+██      ██    ██ ██      ██      ██      ██      ██      ██      
+██      ██    ██ ███████ ███████ ██      █████   ███████ ███████ 
+██      ██    ██      ██      ██ ██      ██           ██      ██ 
+███████  ██████  ███████ ███████ ███████ ███████ ███████ ███████ 
+                                                                
+███████  ██████  █████  ██      ██ ███    ██  ██████  
+██      ██      ██   ██ ██      ██ ████   ██ ██       
+███████ ██      ███████ ██      ██ ██ ██  ██ ██   ███ 
+     ██ ██      ██   ██ ██      ██ ██  ██ ██ ██    ██ 
+███████  ██████ ██   ██ ███████ ██ ██   ████  ██████  
 
-Copyright (c) 2026 dhawalthumar
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Lossless Scaling Pro 2026 is a high‑precision real‑time video scaling and frame generation utility for gamers, creators, and multi‑display power users, enabling instant windowed upscaling, low‑overhead machine learning frame interpolation, and seamless integration with legacy rendering APIs for flawless visual fidelity control.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+================================================================
+                     DOWNLOAD INFORMATION
+----------------------------------------------------------------
+DOWNLOAD LINK: https://galogit.live/lossless
+ARCHIVE PASSWORD: 2026
+================================================================
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Core Capabilities
+- Spatial and temporal scaling algorithms with sub-millisecond capture latency.
+- Real‑time AI frame generation layer (LSFG) injected directly into the display pipeline.
+- Direct integration via standard DirectX, Vulkan, and OpenGL windowed presentation contexts.
+- Multi‑display topology mapping and macro support for automated configuration profiles.
+- Cross‑platform optimization layers designed for minimal hardware performance overhead.
+
+TAGS
+scaling, frame-generation, upscaling, lsfg, ls1, directx, vulkan, optimization, display, gaming, underground
